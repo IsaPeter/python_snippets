@@ -30,7 +30,7 @@ python3 -c "for i in range(100): print(i)" | ./groupper -c 50 -j ' '
 
 ### uniqdomains
 
-Red input from STDIN and print unique domains from the input URL list.
+Read input from STDIN and print unique domains from the input URL list.
 
 ```bash
 ┌──(kali㉿kali)-[/tmp/python_snippets]
